@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Notes",
+  "description": "An advanced note-taking, mind-mapping, and activity tracking application with a rich text editor and automatic connectivity graphing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
